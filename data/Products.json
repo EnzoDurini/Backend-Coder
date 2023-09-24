@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Tv",
+    "description": "producto ",
+    "price": 11000,
+    "thumbnail": "rutadeimagen",
+    "code": "1TvASDFASabc",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "title": "PC",
+    "description": "producto ",
+    "price": 2550,
+    "thumbnail": "rutadeimagen",
+    "code": "13pcsadfabc",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Tablet",
+    "description": "producto ",
+    "price": 550,
+    "thumbnail": "rutadeimagen",
+    "code": "1123tabldfabc",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "Iphone 15 pro",
+    "description": "producto ",
+    "price": 1550,
+    "thumbnail": "rutadeimagen",
+    "code": "1123celbc",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "title": "Iphone 15 plus",
+    "description": "producto ",
+    "price": 1150,
+    "thumbnail": "rutadeimagen",
+    "code": "1123celdfabc",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "title": "Iphone 15",
+    "description": "producto",
+    "price": 950,
+    "thumbnail": "rutadeimagen",
+    "code": "1123celadfabc",
+    "stock": 15
+  }
+]
