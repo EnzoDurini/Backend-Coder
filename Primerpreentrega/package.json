@@ -1,13 +1,13 @@
 {
-  "name": "clase6",
+  "name": "pre-entrega1",
   "version": "1.0.0",
-  "description": "clase 6 creando el primer servidor",
-  "main": "server.js",
+  "description": "Primera pre-entrega",
+  "main": "app.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon src/server.js",
-    "dev": "node src/server.js"
+    "start": "nodemon src/app.js",
+    "dev": "node src/app.js"
   },
   "keywords": [],
   "author": "",
