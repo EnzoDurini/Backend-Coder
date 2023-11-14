@@ -4,7 +4,7 @@ import { __dirname } from './utils.js';
 import productsRouter from './routes/products.router.js'
 import usersRouter from './routes/users.router.js'
 import viewsRouter from './routes/views.router.js'
-
+import cartsRouter from './routes/carts.router.js'
 //DB
 import './db/configDB.js'
 
@@ -23,6 +23,7 @@ app.set('view engine', 'handlebars')
 app.use('/api/products', productsRouter)
 app.use('/api/users', usersRouter)
 app.use('/', viewsRouter)
+app.use('/', cartsRouter)
 
 app.listen(8080,()=> {
     console.log('Listening on port 8080')
